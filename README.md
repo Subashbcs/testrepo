@@ -1,2 +1,2 @@
 # testrepo
-For testing and study purpose
+For testing and study purpose only
